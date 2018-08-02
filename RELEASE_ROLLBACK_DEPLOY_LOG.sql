@@ -27,3 +27,4 @@ Prompt 'End Updating  Release Log Details .....';
 Prompt '------------------------------------------';
 Prompt
 Prompt
+new changes done by deepak
